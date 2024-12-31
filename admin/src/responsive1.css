@@ -1,0 +1,51 @@
+
+@media only screen and (min-width:768px) {
+
+  /* body {
+    background: red;
+  } */
+
+  .dashboard_Box {
+    gap: 10px;
+    display: flex;
+    flex-direction: row;
+  }
+
+  .dashboard_Box .col1 {
+    width: 50%;
+  }
+
+ .imgUploadBox{
+  width: 100%;
+  flex-wrap: wrap;
+ }
+
+
+  .imgWrapper img{
+    max-width: 150px;
+  }
+ 
+  .main .sidebarWrapper .sidebar{
+    width: 30%;
+  }
+
+
+
+}
+
+
+@media only screen and (min-width:1200px) {
+  /* body {
+    background: green;
+  } */
+
+  .imgUploadBox{
+    width: 80%;
+    flex-wrap: nowrap;
+   }
+
+   .main .sidebarWrapper .sidebar{
+    width: 30%;
+  }
+
+}
