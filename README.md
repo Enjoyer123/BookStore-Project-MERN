@@ -16,7 +16,6 @@ The **Bookstore Management System** is a **web application** designed for both c
 - **Admin Dashboard**: A secure area where administrators can manage books in the system.
 - **Add/Edit/Delete Books**: Admins can add new books, edit existing book details, or remove books from the inventory.
 - **View Sales Data**: Admins can view a summary of sales data to track the bookstore’s performance.
-- **User Management**: Admins can manage user accounts, including customer roles and permissions.
 
 ## **Technology Stack:**
 - **Frontend**: React.js, Bootstrap
