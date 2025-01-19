@@ -1,7 +1,9 @@
 # **Bookstore System with Admin Dashboard**
 
 The **Bookstore Management System** is a **web application** designed for both customers and administrators. Customers can browse books, view book details, and make purchases, while administrators have access to an **Admin Dashboard** where they can manage the bookstore's inventory, add or remove books, and view sales data.
+**Course:** WEB DEVELOPMENT	
 
+**Year:** 2025
 ## **Key Features:**
 
 ### **Customer Features:**
