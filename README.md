@@ -27,7 +27,7 @@ The **Bookstore Management System** is a **web application** designed for both c
 
 ## **Live Demo:** 
 - **Admin Dashboard use render**: [Admin Demo Link](https://8-12-admin.netlify.app)
-- **Main Website use netlify**: [Main Demo Link](https://8-12-admin.netlify.app)
+- **Main Website use netlify**: [Main Demo Link](https://8-12-books-shop.netlify.app/)
 
 If you have any issues, you can contact me at my profile.
 
