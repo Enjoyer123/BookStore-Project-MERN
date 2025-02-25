@@ -23,7 +23,7 @@ The **Bookstore Management System** is a **web application** designed for both c
 - **Frontend**: React.js, Bootstrap
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
-- **Authentication**: Token-based authentication (admin users require a token to access the Admin Dashboard)
+- **Authentication**: Token-based authentication
 
 ## **Live Demo:** 
 - **Admin Dashboard use render & netlify**: [Admin Demo Link](https://8-12-admin.netlify.app)
